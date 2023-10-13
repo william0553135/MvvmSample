@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 using System.Windows.Controls;
 using System.Windows.Input;
 
-namespace NV
+namespace MvvmSample
 {
     public partial class UserControl1 : UserControl
     {
